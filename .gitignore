@@ -1,0 +1,5 @@
+# Build files
+site/
+
+# Do not lock deps
+Pipfile.lock

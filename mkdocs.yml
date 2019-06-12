@@ -1,0 +1,25 @@
+site_name: "[kro]bot"
+site_description: Le club de robotique de l'ENS Paris-Saclay
+copyright: "Copyright &copy; Krobot 2019"
+repo_url: https://github.com/ens-krobot/KrobotDocumentation/
+nav:
+    - Accueil: index.md
+    - Matériel:
+      - Imprimante 3D: imprimantes-3d.md
+extra:
+  search:
+    language: 'en, fr'
+  social:
+    - type: github
+      link: https://github.com/ens-krobot
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: 'light green'
+    accent: 'light green'
+  logo: images/logo.svg
+  font: false
+  feature:
+    tabs: true
+
