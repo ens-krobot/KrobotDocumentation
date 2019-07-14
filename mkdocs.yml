@@ -18,7 +18,8 @@ theme:
   palette:
     primary: 'light green'
     accent: 'light green'
-  logo: images/logo.svg
+  logo: img/logo.svg
+  favicon: img/favicon.ico
   font: false
   feature:
     tabs: true
