@@ -3,12 +3,15 @@ site_description: Le club de robotique de l'ENS Paris-Saclay
 copyright: "Copyright &copy; Krobot 2019"
 repo_url: https://github.com/ens-krobot/KrobotDocumentation/
 nav:
-    - Accueil: index.md
-    - Matériel:
-      - Imprimante 3D: imprimantes-3d.md
+    - Club et Matériel:
+      - Le club: index.md
+      - Les imprimantes 3D: imprimantes-3d.md
+    - Projets:
+      - Le KBOT: kbot.md
+      - La Coupe de France: coupe-de-france.md
 extra:
   search:
-    language: 'en, fr'
+    language: fr
   social:
     - type: github
       link: https://github.com/ens-krobot
@@ -23,4 +26,5 @@ theme:
   font: false
   feature:
     tabs: true
-
+extra_css:
+  - css/layout.css
