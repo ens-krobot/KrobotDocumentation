@@ -17,6 +17,8 @@ Au total, avec 10 points, nous avons terminé en 54ème position
 
 Homologation réussie le mercredi 12/05 vers 22h15.
 
+![Le robot](img/coupe_de_france_1999_robot.jpg)
+
 ## En direct Live de la Ferté-Bernard !
 
 Nous sommes arrivés à la Ferté mercredi à 17h sous une pluie battante
@@ -105,4 +107,16 @@ Le staff rentre au stand plein de désillusion morbide pré-suicidaire
 ### Le quatrième match « OUAAAAIIS ! »
 
 ### Le cinquième match « Ohhhhh ! »
+
+## Sponsoring du Krobot
+
+Un grand merci à **Protel International** pour son soutien logiciel et
+financier.
+
+Un grand merci églement à **Eleckson** qui nous a gracieusement fourni les
+nombeuses batteries du robot.
+
+![Protel](img/coupe_de_france_1999_protel.jpg)
+![Eleckson](img/coupe_de_france_1999_eleckson.gif)
+![Cota, 35 boulevard Beaubourg 77184 Emerainville](img/coupe_de_france_1999_cota.gif)
 
