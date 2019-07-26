@@ -5,12 +5,17 @@ repo_url: https://github.com/ens-krobot/KrobotDocumentation/
 nav:
     - Club et Matériel:
       - Le club: index.md
+      - Ressources: ressources.md
       - Les imprimantes 3D: imprimantes-3d.md
     - Projets:
       - Le KBOT: kbot.md
       - La Coupe de France 2019: coupe-de-france-2019.md
       - La Coupe de France 2015: coupe-de-france-2015.md
       - La Coupe de France 2011: coupe-de-france-2011.md
+      - La Coupe de France 2002: coupe-de-france-2002.md
+      - La Coupe de France 2001: coupe-de-france-2001.md
+      - La Coupe de France 2000: coupe-de-france-2000.md
+      - La Coupe de France 1999: coupe-de-france-1999.md
 extra:
   search:
     language: fr
