@@ -14,8 +14,3 @@ pipenv install
 pipenv run mkdocs serve
 ```
 
-## TODO
-
-  * Placer une favicon.ico dans docs/img ;
-  * Migrer l'ancien site.
-
