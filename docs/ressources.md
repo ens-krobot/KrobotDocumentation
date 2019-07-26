@@ -4,6 +4,10 @@
 
 [De la conception à la réalisation d’un robot, Olivier Bichler, avril 2007](doc/2007_Guide_Krobot.pdf)
 
+## Documents recommandés
+
+[An Introduction to the Kalman Filter, Greg Welch and Gary Bishop, september 1997](doc/kalman.pdf)
+
 ## Liens
 
 [ENS Paris-Saclay](https://ens-paris-saclay.fr/)

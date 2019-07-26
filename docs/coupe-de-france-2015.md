@@ -16,6 +16,8 @@ Sous le thème 2015 de Robomovies, les robots devront réaliser les tâches suiv
   * aller à la cérémonie des récompenses en montant les marches,
   * accueillir les stars, en déroulant le tapis rouge.
 
+![Les robots](img/coupe_de_france_2015_robot.jpg)
+
 ## Notre stand dans le journal local
 
 ![Capture de lemainelibre.fr](img/coupe_de_france_2015_capture_articlelemaine.png)
