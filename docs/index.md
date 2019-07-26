@@ -5,6 +5,8 @@ au matériel et aux projets que vous pourrez trouver dans nos locaux.
 
 # Qui sommes nous ?
 
+![Notre logo](img/logo.png)
+
 Le club [kro]bot est le club de robotique de
 l’[École Normale Supérieure Paris-Saclay](http://ens-paris-saclay.fr/),
 rattaché au [Bureau Des Élèves](https://wiki.crans.org/VieBde) de l’école.
