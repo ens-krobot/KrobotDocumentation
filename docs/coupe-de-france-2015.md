@@ -31,3 +31,23 @@ Voir l'article complet ici : <https://www.lemainelibre.fr/actualite/la-ferte-ber
 ![Poster de l'équipe des jeunes](img/coupe_de_france_2015_poster_equipe_jeunes.jpg)
 ![Poster de l'équipe des vieux](img/coupe_de_france_2015_poster_equipe_vieux.jpg)
 
+## Sponsoring du Krobot
+
+FAULHABER est l'un des principaux fournisseurs de haute technologie dans le
+domaine des systèmes d'entraînement miniatures et microsystèmes.
+Du moteur C.C. performant avec un couple continu de 200 mNm jusqu'au
+microentraînement filiforme d'un diamètre extérieur de 1,9 mm, combinables
+avec des réducteurs de précision, des codeurs, des composants linaires et des
+commandes adaptés,
+FAULHABER offre la gamme la plus complète de systèmes d'entraînement miniatures
+disponible auprès d'une seule source à travers le monde.
+
+Un grand MERCI à Faulhaber qui nous ont offert, à l'occasion de la coupe de France de Robotique 2015 :
+
+  * 5 moteurs 2657 024CR,
+  * 5 codeurs IE3-1024,
+  * 5 réducteurs série 26/1 S 14:1.
+
+![Codeurs IE3-1024](img/faulhaber.png){: style="max-width:400px"}
+![Codeurs IE3-1024](img/coupe_de_france_2015_IE3-1024L_F.png)
+

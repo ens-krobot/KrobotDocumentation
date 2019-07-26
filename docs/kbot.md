@@ -1,13 +1,20 @@
 # Le KBOT
 
+Rien de mieux qu'un KBOTS, ce petit robot à deux roues, pour apprendre les bases de la robotique !
+
+![KBot de près](img/kbot_img1.jpg)
+![KBot de près](img/kbot_img2.jpg)
+
 ## Introduction
 
-Un KBOT est un petit « robot sandwich » doté de deux roues motrices
-(moteurs+codeurs), d'une Arduino Méga 2560, d'un écran LCD 16x2,
-d'une batterie 3S… C'est une fabrication maison que réalise les
-premières années du club de robotique de l'ENS Paris-Saclay pour
-acquérir les bases de la robotique & se familiariser avec la programmation
-à travers l'IDE Arduino.
+Ces petites créatures sont entièrement réalisées par les premières années pour
+comprendre, dans les moindres détails, les fondamentaux de la robotique & de
+la programmation sous Arduino.
+
+Découpe laser, impression 3D, soudures de shields maisons, & développement
+d'un programme d'asservissement sur Arduino Mega sont les clefs pour se
+préparer au mieux au plus grand défi intellectuel & ludique de France :
+La coupe de Robotique.
 
 Ce robot a été développé par [Olivier Lévêque](https://github.com/oleveque/)
 en 2017.
@@ -17,8 +24,13 @@ associé : <https://github.com/oleveque/KBOT>.
 Ce projet a finalement aidé à la création de
 [Mr. Robotics](https://github.com/WhoIsMrRobotics).
 
+![KBot de près](img/kbot_img3.jpg)
+
 ## Faire son KBOT
 
 Le [Kro]bot vend des kits de démarrage de KBOT à ses membres et les aide lors
 de la réalisation.
 Si vous êtes intéressé, venez discuter un mercredi soir !
+
+![Des premières années sur leur KBOT](img/kbot_people.jpg)
+

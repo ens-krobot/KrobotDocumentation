@@ -10,6 +10,7 @@ nav:
       - Le KBOT: kbot.md
       - La Coupe de France 2019: coupe-de-france-2019.md
       - La Coupe de France 2015: coupe-de-france-2015.md
+      - La Coupe de France 2011: coupe-de-france-2011.md
 extra:
   search:
     language: fr
@@ -29,3 +30,6 @@ theme:
     tabs: true
 extra_css:
   - css/layout.css
+markdown_extensions:
+  - attr_list
+  - smarty
