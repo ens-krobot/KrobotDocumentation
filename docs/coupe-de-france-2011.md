@@ -7,6 +7,7 @@ Les projets Git associés :
   * [Info, Logiciel de contrôle](https://github.com/ens-krobot/info_2011_control2011)
   * [Info, Générateur](https://github.com/ens-krobot/info_2011_generator)
   * [Info, Protocole](https://github.com/ens-krobot/info_2011_protocol)
+  * [Info, Logiciel de vision](https://github.com/ens-krobot/info_2011_vision)
 
 ## Reportage sur le Krobot
 

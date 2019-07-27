@@ -3,6 +3,7 @@
 Les projets Git associés :
 
   * [Info, Logiciel de Contrôle](https://github.com/ens-krobot/info_2015_control2015)
+  * [Info, Interface pour le LIDAR Hokuyo](https://github.com/ens-krobot/info_2015_ocaml-urg)
 
 ## Comme chaque année, Le club participe à la Coupe de France de Robotique.
 

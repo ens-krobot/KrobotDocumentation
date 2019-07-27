@@ -4,6 +4,8 @@
 
 [De la conception à la réalisation d’un robot, Olivier Bichler, avril 2007](doc/2007_Guide_Krobot.pdf)
 
+[La documentation des cartes électroniques du Krobot](https://github.com/ens-krobot/elec_boards)
+
 ## Documents recommandés
 
 [An Introduction to the Kalman Filter, Greg Welch and Gary Bishop, september 1997](doc/kalman.pdf)
