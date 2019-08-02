@@ -1,6 +1,8 @@
-# Robot à 2 roues (2009)
+# La coupe de France de robotique 2009
 
-## Introduction
+[Lien vers le rapport de CVI expliquant le projet](doc/2009_cvi.pdf)
+
+## Robot à 2 roues
 
 Ce projet a pour but de concevoir un robot à roues complet,
 capable d'accomplir des tâches simples, de manipuler des objets et

@@ -2,7 +2,7 @@
 
 ## Documents écrits par des anciens membres
 
-[De la conception à la réalisation d’un robot, Olivier Bichler, avril 2007](doc/2007_Guide_Krobot.pdf)
+[De la conception à la réalisation d’un robot, commencé par Olivier Bichler en avril 2007](doc/2007_Guide_Krobot.pdf) ([source](https://github.com/ens-krobot/guide))
 
 [La documentation des cartes électroniques du Krobot](https://github.com/ens-krobot/elec_boards)
 
