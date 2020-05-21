@@ -36,7 +36,7 @@ Voir l'article complet ici : <https://www.lemainelibre.fr/actualite/la-ferte-ber
 ## Posters de nos deux équipes
 
 ![Poster de l'équipe des jeunes](img/coupe_de_france_2015_poster_equipe_jeunes.jpg)
-![Poster de l'équipe des vieux](img/coupe_de_france_2015_poster_equipe_vieux.jpg)
+[![Poster de l'équipe des vieux](img/coupe_de_france_2015_poster_equipe_vieux.jpg)](doc/2015_poster.pdf)
 
 ## Sponsoring du Krobot
 

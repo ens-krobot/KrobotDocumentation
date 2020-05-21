@@ -11,3 +11,8 @@ Les projets Git associés :
   * [Info, Communication série](https://github.com/ens-krobot/info_2010_ocaml-serial)
   * [Info, Couche de communication série](https://github.com/ens-krobot/info_2010_USB_Com_Layer)
 
+## Posters de nos deux équipes
+
+[![Poster de l'équipe des seniors](img/coupe_de_france_2010_poster_equipe_anciens.jpg)](doc/2010_poster.pdf)
+[![Poster de l'équipe des jeunes](img/coupe_de_france_2010_poster_equipe_jeunes.jpg)](doc/2010_poster_jr.pdf)
+
